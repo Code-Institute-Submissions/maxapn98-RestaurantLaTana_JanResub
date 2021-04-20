@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital@1&family=Open+Sans+Condensed:wght@300&display=swap');
+
+/* Navbar */
+.text-right {
+    margin-left: 70%;
+}
+.font {
+   font-family: "Josefin sans" , sans-serif;
+   letter-spacing: 2px; 
+   float: right;
+}
+.nav-item {
+    margin: 2px;
+}
+
+.navbar-brand {
+margin-left: 10px;
+}
+
+/* Slide */
+.carousel-item {
+    height: 500px;
+    
+}
+.bd-placeholder-img-1 {
+    W
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+#fist-img {
+    background: url("../Images/Wagyu.jpg") no-repeat center center;
+    height: 500px;
+    width: 100%;
+    animation-name: hero-zoom;
+   animation-duration: 5s;
+   animation-fill-mode: forwards;
+   position: relative;
+}
+.row-1 {
+    margin-top: 5px;
+}
+.rounded-circle {
+    align-items: center;
+    margin-left: px;
+}
+@keyframes hero-zoom {
+   from {
+ transform: scale(1);
+   }
+   to {
+transform: scale(1.1);
+   }
+/* font-awsome */
