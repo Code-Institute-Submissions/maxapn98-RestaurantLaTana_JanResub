@@ -1,7 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital@1&family=Open+Sans+Condensed:wght@300&display=swap');
 
 
-
+body {
+    height: 100%;
+    margin: 0;
+}
 /* Navbar */
 #fist-img {
     background: url("../Images/Wagyu.jpg") no-repeat center center;
@@ -11,6 +14,7 @@
    animation-duration: 5s;
    animation-fill-mode: forwards;
    position: relative;
+   background-size: cover;
 }
 
 .text-right {
@@ -28,10 +32,87 @@
 .navbar-brand {
 margin-left: 10px;
 }
+/* cards */
+
+.cards {
+    display: flex;
+    min-height: 100px;
+    margin-left: 20px;
+    justify-content: center;
+    background-size: cover;
+    background-position: center center;
+    background-position: center center;
+    font-family: "Josefin sans" , sans-serif;
+
+}
+}
+.wrapper .box {
+   
+    border-radius: 15px;
+    transition: transform 500ms ease-out;
+    overflow: hidden;
+    text-align: center;
+    display: grid;
+    margin: 10px;
+}
+.box {
+    margin: 5%;
+    margin-top: 0;
+    text-align: center;
+    margin-top: 50px;
+    
+}
+.box i {
+    font-size: 50px;
+    display: block;
+    text-align: center;
+    margin-bottom: 10px;
+} 
+.fab {
+    margin-top: 30px;
+}
+/* Coursel */
+.carousel-inner {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 100%;
+    padding: 0 10px;
+    margin: 0;
+    position: absolute;
+
+
+}
+.row {
+  width: 100%;
+  
+}
+.item-1 {
+    margin-right: 50px;
+    margin-bottom: 100px;
+    width: 50%
+}
+.item-3 {
+    width: 40%;
+   
+}
+/*circle bg */
+.rounded-circle {
+    justify-content: right;
+}
+
+
+
+
+
+
+
+
+
 
 /* Slide */
 
-.carousel-control-prev-icon {
+/* .carousel-control-prev-icon {
     background-image: none;
 }
 .slider-countainer {
@@ -46,8 +127,11 @@ margin-left: 10px;
     justify-content: space-around;
     position: relative;
     
+    
 }
-
+.slide {
+    background-size: cover;
+}
 
 .carousel-inner-2 {
     margin-left: 0px;
@@ -62,19 +146,39 @@ margin-left: 10px;
 .rounded-circle {
     align-items: center;
     
+} */
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
 }
 /* Wine */
 .second-img {
     background: url("/assets/Images/cantina.jpg");
     
-    
+    margin-left: 100px;
 }
-
+.lead-wine {
+    margin-left: 40px;
+}
 .menu {
     padding: 50px 0 20px 150px;
 }
 .w-heading {
     margin-left: 50px;
+}
+#cattle {
+    background: url("../Images/cattle.jpg") no-repeat center;
+    
+}
+.wagyu {
+    text-align: center;
+}
+#massage {
+    background: url("../Images/massage1.jpg") no-repeat center;
+}
+.massage {
+    margin-top: 20px;
+    text-align: center;
 }
 
 /* container */
