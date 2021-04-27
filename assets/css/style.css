@@ -71,7 +71,14 @@ margin-left: 10px;
 .fab {
     margin-top: 30px;
 }
-/* Coursel */
+}
+/*circle bg */
+.rounded-circle {
+    justify-content: right;
+}
+
+
+/* Slide */
 .carousel-inner {
     display: flex;
     flex-direction: row;
@@ -80,92 +87,42 @@ margin-left: 10px;
     padding: 0 10px;
     margin: 0;
     position: absolute;
-
-
 }
-.row {
-  width: 100%;
+.carousel-inner > .item {
+    height: 100%;
+    width: 100%;
+    padding-left: 20px;
+ }
+
+ .zoom {
+    padding: 40px;
+    
+    transition: transform .2s; /* Animation */
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+  }
   
-}
-.item-1 {
-    margin-right: 50px;
-    margin-bottom: 100px;
-    width: 50%
-}
-.item-3 {
-    width: 40%;
-   
-}
-/*circle bg */
-.rounded-circle {
-    justify-content: right;
-}
-
-
-
-
-
-
-
-
-
-
-/* Slide */
-
-/* .carousel-control-prev-icon {
-    background-image: none;
-}
-.slider-countainer {
-    max-height: 5rem;
-}
-#slide {
-    display: inline;
-    margin: 30px;
-    height: 300px;
-    margin-left: 80px;
-    height: 300px;
-    justify-content: space-around;
-    position: relative;
-    
-    
-}
-.slide {
-    background-size: cover;
-}
-
-.carousel-inner-2 {
-    margin-left: 0px;
-}
-.carousel-inner-3 {
-    margin-left: 40px;
-    height: inherit;
-}
-.row-1 {
-    margin-top: 5px;
-}
-.rounded-circle {
-    align-items: center;
-    
-} */
+  .zoom:hover {
+    transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+  }
 .carousel-inner img {
     width: 100%;
     height: 100%;
-}
-/* Wine */
-.second-img {
-    background: url("/assets/Images/cantina.jpg");
     
-    margin-left: 100px;
 }
-.lead-wine {
-    margin-left: 40px;
+
+/* Wine */
+#lambrusco {
+    background-image: url("../Images/redwine.jpg");
+    width: auto;
+    height: auto;
+    padding-bottom: 20px;
+    background-repeat: no-repeat;
+    background-position: center;
 }
-.menu {
-    padding: 50px 0 20px 150px;
-}
-.w-heading {
-    margin-left: 50px;
-}
+
+/* What is wagyu? */
 #cattle {
     background: url("../Images/cattle.jpg") no-repeat center;
     
@@ -175,9 +132,10 @@ margin-left: 10px;
 }
 #massage {
     background: url("../Images/massage1.jpg") no-repeat center;
+    margin-bottom: 20px;
 }
 .massage {
-    margin-top: 20px;
+    margin-top: 40px;
     text-align: center;
 }
 
