@@ -9,15 +9,6 @@
  
  * A user can learn about Restourant most exquisite offers.
 
- <h1>Scope</h1>
-  
-  * <strong>Header</strong> containing navigation bar and restourant logo.
-  * <strong>Navbar</strong> is provided with 2 dropdown menus,gallery and contact.
-  * <strong>Coursel slide</strong> contains two slides one is Restourant image and other is Wagyu image whicis provided with <strong>Learn more</strong> button.
-  * <strong>Reasons section</strong> guests can get informed about "Happy hour", they can find a phone number for table reservetion and reasons why to dine there.
-  * <strong>"Wagyu" section, "Lambrusco" section and "Wagyu meat" section</strong> are made in simmilar way , so guest can get infomed about "Wagyu meat what is it?" "Why it costs so much ?" and best wine to pair with beef.
-  * <strong>Gallery</strong> is provided with actual photos of dishes from menu. When they hover over the photo they can see what is in photo description.
-  * <strong>Footer</strong> contains "Address", "Contact" , "Openning hours" and Location on google maps.
 
 <h1>Structure</h1>
 
@@ -25,12 +16,55 @@
 
 <h1>Skeleton</h1>
 
-*  I had originally thought about creating a website with a homepage and separate pages ,later i decided to put all in one page to create a better flow.WIREFRAMES (wireframes are diffrent from the original wireframe but they share same idea)
+*  I had originally thought about creating a website with a homepage and separate pages ,later i decided to put all in one page to create a better flow. [WIREFRAMES](/assets) (wireframes are diffrent from the original wireframe but they share same idea.)
  
+ <h1>Surface</h1>
  
+ * I wanted the design to be clean and elegant.I didn't want to mix too many colours because of this reason , i thought black nad white are the most elegant and clean.  Website contain many photos for marketing reasons.
+
+  <h1>Features</h1>
+
+  <h3>The Navigation bar includes:</h3>
+
+  * 4 buttons , 2 of then are dropdown menus 
+  
+  1. <strong> Menu</strong> dropdown menu contain "Restourant menu" ,and "Winelist" buttons ,clicking on them will lead to pdf.
+  1. <strong>About</strong> also a dropdown menu who contain  "Wagyu Beef" , "Lambrusco" and "Wagyu steak" buttons which will lead desired section.
+  1. <strong>Gallery</strong> button lead to Gallery seciton.
+  1. <strong>Contact</strong> button lead to footer which contain Phone number, Address, Location and Opening hours.
+
+   <h3>Coursel slide</h3> 
+
+   * Contains two slides one is Restourant image and other is Wagyu image which provided with <strong>Learn more</strong> button.
+
+   <h3>Reasons section</h3>
+
+  * Three reasons why  potential clients should visit this Restourant. 
+  1. "Happy hour"
+  1. "Phone number" for table reservetion 
+  1. "Why to dine here"
+
+  <h3>Wagyu section</h3> 
+  
+  * "Lambrusco" section and "Wagyu meat" section are made in simmilar way, so guest can get infomed about "Wagyu meat what is it?" "Why it costs so much ?" and best wine to pair with beef.
 
 
+  <h3>Gallery</h3> 
+  
+  * Is provided with actual photos of dishes from menu. When they hover over the photo they can see what is in photo description.
+
+<h3>Footer</h3> 
+
+* Contains "Address", "Contact" , "Openning hours" ,Social Media icons and Location on google maps.
+
+<h1>Technologies Used</h1>
+
+* Html , CSS3
+
+* [Bootstrap v5.0.0-beta3](https://getbootstrap.com/)
+
+* [Balsamiq](https://balsamiq.com/wireframes/?gclid=CjwKCAjwhMmEBhBwEiwAXwFoEevIzP_OWBercronmmZHWv2kqbbe77PxZjhASJmZxkn6KOwSNqtIBxoC9AsQAvD_BwE)
+
+* [TinyPNG & TinyJPG](https://tinypng.com/)
   
 
-
-  
