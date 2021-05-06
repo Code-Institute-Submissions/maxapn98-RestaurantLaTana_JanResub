@@ -18,7 +18,7 @@
 
 *  I had originally thought about creating a website with a homepage and separate pages ,later i decided to put all in one page to create a better flow. [wireframes](assets/wireframes/Milestone 1-1.png) (wireframes are diffrent from the original wireframe but they share same idea.)
  
- ![alt text](assets/wireframes/Milestone 1-1.png) "Responsive Image") 
+ ![alt text](assets/wireframes/Milestone-1-1.png "Responsive Image") 
  <h1>Surface</h1>
  
  * I wanted the design to be clean and elegant.I didn't want to mix too many colours because of this reason , i thought black nad white are the most elegant and clean.  Website contain many photos for marketing reasons.
