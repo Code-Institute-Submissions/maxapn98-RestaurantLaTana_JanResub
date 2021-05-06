@@ -9,7 +9,7 @@ body {
 
 body,
 html {
-	background: url("assets/images/black-background.jpg") no-repeat;
+	background: url("../images/black-background.jpg") no-repeat;
 	background-attachment: fixed;
 	background-size: cover;
 }
@@ -18,7 +18,7 @@ html {
 /* Navbar */
 
 #fist-img {
-	background: url("assets/images/restourant-bg.jpeg") no-repeat center center;
+	background: url("../images/restourant-bg.jpeg") no-repeat center center;
 	height: 500px;
 	width: 100%;
 	animation-name: hero-zoom;
@@ -50,7 +50,7 @@ html {
 /*hero img*/
 
 #second-img {
-	background: url("assets/images/bg-slide-steak.jpg") no-repeat center center;
+	background: url("../images/bg-slide-steak.jpg") no-repeat center center;
 	height: 500px;
 	width: 100%;
 	animation-name: hero-zoom;
@@ -122,7 +122,7 @@ html {
 /* Wine */
 
 #lambrusco {
-	background-image: url("assets/images/redwine.jpg");
+	background-image: url("../images/redwine.jpg");
 	width: auto;
 	height: auto;
 	padding-bottom: 20px;
@@ -134,7 +134,7 @@ html {
 /* What is wagyu? */
 
 #cattle {
-	background: url("assets/images/cattle.jpg") no-repeat center;
+	background: url("../images/cattle.jpg") no-repeat center;
 }
 
 .wagyu {
@@ -142,7 +142,7 @@ html {
 }
 
 #massage {
-	background: url("assets/images/massage1.jpg") no-repeat;
+	background: url("../images/massage1.jpg") no-repeat;
 	margin-bottom: 50px;
 	background-position: right;
 }
@@ -153,7 +153,7 @@ html {
 }
 
 #wagyu-beef {
-	background: url("assets/images/steak.jpg");
+	background: url("../images/steak.jpg");
 	width: auto;
 	background-position: center;
 }
