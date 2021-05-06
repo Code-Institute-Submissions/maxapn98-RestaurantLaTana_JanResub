@@ -1,5 +1,5 @@
 <h1>Overview</h1>
-<p>This Restoutant is for Wagyu beef lovers and those who appreciate exquisite cuisine, and wine.Based on expiriances in this work area, this website will be perfect for every visitor.It's very simple to navigate and get overview over its Wagyu beef specialist,also u can get information about winelist,location,menu,opening hours and is also possible for guests to book a table.</p>
+<p>This Restoutant is for Wagyu beef lovers and those who appreciate exquisite cuisine, and wine .Based on expiriances in this work area, this website will be perfect for every visitor .It's very simple to navigate and get overview over its Wagyu beef specialist,also u can get information about winelist,location,menu,opening hours and is also possible for guests to book a table.</p>
 
 <h1>Strategy</h1>
 
@@ -61,10 +61,43 @@
 
 * Html , CSS3
 
-* [Bootstrap v5.0.0-beta3](https://getbootstrap.com/)
+* [Bootstrap v5.0.0-beta3](https://getbootstrap.com/) 
 
 * [Balsamiq](https://balsamiq.com/wireframes/?gclid=CjwKCAjwhMmEBhBwEiwAXwFoEevIzP_OWBercronmmZHWv2kqbbe77PxZjhASJmZxkn6KOwSNqtIBxoC9AsQAvD_BwE)
 
 * [TinyPNG & TinyJPG](https://tinypng.com/)
+
+* [Online-convert](https://image.online-convert.com/convert-to-jpg)
+
+* [Gitpod](https://gitpod.io/workspaces)
+
+* [Font Awesome](https://fontawesome.com/)
+
+* [Google fonts](https://fonts.google.com/)
+
+* [Freeformatter HTML Formatter](https://www.freeformatter.com/html-formatter.html#ad-output)
+
+* [Freeformatter CSS Formatter](https://www.freeformatter.com/css-beautifier.html#ad-output)
+
+* 
+<h1>Validation</h1>
+
+* I used the W3C Markup Validation Service to check the Markup and W3C CSS Validation Service to check the CSS validity of the site
   
 
+* then i fixed errors
+
+* I constantly tested the code in Chrome Dev Tools and often ran Lighthouse
+
+
+<h1>Credits</h1>
+  <h2>Media</h2>
+
+*  80% photos are taken from [Unsplash](https://unsplash.com/s/photos/restaurant?orientation=landscape)
+ <h2>Content</h2>
+
+*  Some content are then from [Wagyu in Alto adige](https://www.wagyu.bz.it/?l=en)
+
+*  Lambrusco section is translated from [Lambrusco](https://www.lambrusco.com/)
+
+* Menu is writen from Restourant where i worked before.

@@ -1,326 +1,329 @@
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital@1&family=Open+Sans+Condensed:wght@300&display=swap');
 
-
 body {
-  height: 100%;
-  margin: 0;
+	height: 100%;
+	margin: 0;
+	background-color: black;
+	
 }
-body, html {
-  background: url("/assets/Images/bgg\ \(2\).jpg") no-repeat ;
-  background-attachment: fixed;
-  background-size: cover;
-  
+
+body,
+html {
+	background: url("/assets/Images/bgg\ \(2\).jpg") no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
 }
 
 
 /* Navbar */
+
 #fist-img {
-  background: url("../Images/Restourant\ bg.jpeg") no-repeat center center;
-  height: 500px;
-  width: 100%;
-  animation-name: hero-zoom;
-  animation-duration: 5s;
-  animation-fill-mode: forwards;
-  position: relative;
-  background-size: cover;
+	background: url("../Images/Restourant\ bg.jpeg") no-repeat center center;
+	height: 500px;
+	width: 100%;
+	animation-name: hero-zoom;
+	animation-duration: 5s;
+	animation-fill-mode: forwards;
+	position: relative;
+	background-size: cover;
 }
+
 .nav-item {
-  margin: 2px;
+	margin: 2px;
 }
 
 .navbar-brand {
-  margin-left: 10px;
+	margin-left: 10px;
 }
+
 .text-right {
-  margin-left: 69%;
+	margin-left: 69%;
 }
 
 .font {
-  font-family: "Josefin sans", sans-serif;
-  letter-spacing: 2px;
-  float: right;
+	font-family: "Josefin sans", sans-serif;
+	letter-spacing: 2px;
+	float: right;
 }
+
 
 /*hero img*/
 
 #second-img {
-  background: url("../Images/bg-slide-steak.jpg") no-repeat center center;
-  height: 500px;
-  width: 100%;
-  animation-name: hero-zoom;
-  animation-duration: 5s;
-  animation-fill-mode: forwards;
-  position: relative;
-  background-size: cover;
-  
+	background: url("../Images/bg-slide-steak.jpg") no-repeat center center;
+	height: 500px;
+	width: 100%;
+	animation-name: hero-zoom;
+	animation-duration: 5s;
+	animation-fill-mode: forwards;
+	position: relative;
+	background-size: cover;
+}
+.bg-color{
+	background-color: rgba(0, 0, 0, 0.4);
 }
 
 
 /*Font-icons */
+
 .row i {
-  font-size: 50px;
-  display: block;
-  text-align: center;
-  margin-bottom: 10px;
-  margin-top: 20px;
-  color: #F5FFFA;
+	font-size: 50px;
+	display: block;
+	text-align: center;
+	margin-bottom: 10px;
+	margin-top: 20px;
+	color: #F5FFFA;
 }
+
+
 /*circle bg */
+
 .rounded-circle {
-  justify-content: right;
+	justify-content: right;
 }
 
 
 /* Slide */
+
 .carousel-inner {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  width: 100%;
-  padding: 0 10px;
-  margin: 0;
-  position: absolute;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	width: 100%;
+	padding: 0 10px;
+	margin: 0;
+	position: absolute;
 }
 
 .carousel-inner>.item {
-  height: 100%;
-  width: 100%;
-  padding-left: 20px;
+	height: 100%;
+	width: 100%;
+	padding-left: 20px;
 }
 
 .zoom {
-  padding: 40px;
-
-  transition: transform .2s;
-  width: 200px;
-  height: 200px;
-  margin: 0 auto;
+	padding: 40px;
+	transition: transform .2s;
+	width: 200px;
+	height: 200px;
+	margin: 0 auto;
 }
 
 .zoom:hover {
-  transform: scale(1.5);
+	transform: scale(1.5);
 }
 
 .carousel-inner img {
-  width: 100%;
-  height: 100%;
-
+	width: 100%;
+	height: 100%;
 }
 
 
 /* Wine */
+
 #lambrusco {
-  background-image: url("../Images/redwine.jpg");
-  width: auto;
-  height: auto;
-  padding-bottom: 20px;
-  background-repeat: no-repeat;
-  background-position: center;
+	background-image: url("../Images/redwine.jpg");
+	width: auto;
+	height: auto;
+	padding-bottom: 20px;
+	background-repeat: no-repeat;
+	background-position: center;
 }
 
-/* What is wagyu? */
-#cattle {
-  background: url("../Images/cattle.jpg") no-repeat center;
 
+/* What is wagyu? */
+
+#cattle {
+	background: url("../Images/cattle.jpg") no-repeat center;
 }
 
 .wagyu {
-  text-align: center;
+	text-align: center;
 }
 
 #massage {
-  background: url("../Images/massage1.jpg") no-repeat;
-  margin-bottom: 50px;
-  background-position: right;
-  
+	background: url("../Images/massage1.jpg") no-repeat;
+	margin-bottom: 50px;
+	background-position: right;
 }
 
 .massage {
-  margin-top: 40px;
-  text-align: center;
+	margin-top: 40px;
+	text-align: center;
 }
-
 
 #wagyu-beef {
-  background: url("../Images/steak.jpg");
-  width: auto;
-  background-position: center;
+	background: url("../Images/steak.jpg");
+	width: auto;
+	background-position: center;
 }
 
+
 /*Maps*/
+
 .mapouter {
-  position: relative;
-  text-align: right;
-  height: 280px;
-  width: 417px;
+	position: relative;
+	text-align: right;
+	height: 280px;
+	width: 417px;
 }
 
 .gmap_canvas {
-  overflow: hidden;
-  background: none !important;
-  height: 280px;
-  width: 417px;
+	overflow: hidden;
+	background: none !important;
+	height: 280px;
+	width: 417px;
 }
 
+
 /*Gallery*/
+
 .container {
-  width: 60%;
-  margin: 2rem auto;
+	width: 60%;
+	margin: 2rem auto;
 }
 
 .gallery {
-  display: grid;
-  grid-template-columns: repeat(8, 1fr);
-  grid-template-rows: repeat(8, 5vw);
-  grid-gap: 1.5rem;
+	display: grid;
+	grid-template-columns: repeat(8, 1fr);
+	grid-template-rows: repeat(8, 5vw);
+	grid-gap: 1.5rem;
 }
 
 .gallery__img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  display: block;
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+	display: block;
 }
 
 .gallery__item--1 {
-  grid-column-start: 1;
-  grid-column-end: 3;
-  grid-row-start: 1;
-  grid-row-end: 3;
-  width: 100%;
-
-
+	grid-column-start: 1;
+	grid-column-end: 3;
+	grid-row-start: 1;
+	grid-row-end: 3;
+	width: 100%;
 }
 
 .gallery__item--2 {
-  grid-column-start: 3;
-  grid-column-end: 5;
-  grid-row-start: 1;
-  grid-row-end: 3;
-
-
+	grid-column-start: 3;
+	grid-column-end: 5;
+	grid-row-start: 1;
+	grid-row-end: 3;
 }
 
 .gallery__item--3 {
-  grid-column-start: 5;
-  grid-column-end: 9;
-  grid-row-start: 1;
-  grid-row-end: 6;
-
-
-
+	grid-column-start: 5;
+	grid-column-end: 9;
+	grid-row-start: 1;
+	grid-row-end: 6;
 }
 
 .gallery__item--4 {
-  grid-column-start: 1;
-  grid-column-end: 5;
-  grid-row-start: 3;
-  grid-row-end: 6;
-
-
+	grid-column-start: 1;
+	grid-column-end: 5;
+	grid-row-start: 3;
+	grid-row-end: 6;
 }
 
 .gallery__item--5 {
-  grid-column-start: 1;
-  grid-column-end: 5;
-  grid-row-start: 6;
-  grid-row-end: 9;
-
-
+	grid-column-start: 1;
+	grid-column-end: 5;
+	grid-row-start: 6;
+	grid-row-end: 9;
 }
 
 .gallery__item--6 {
-  grid-column-start: 5;
-  grid-column-end: 9;
-  grid-row-start: 6;
-  grid-row-end: 9;
-
+	grid-column-start: 5;
+	grid-column-end: 9;
+	grid-row-start: 6;
+	grid-row-end: 9;
 }
 
 
 /*wagyu steak*/
+
 #steak1 {
-  width: 100%;
-  height: 400px;
-  object-fit: cover;
-  display: block;
-
-
+	width: 100%;
+	height: 400px;
+	object-fit: cover;
+	display: block;
 }
+
 #steak2 {
-  width: 100%;
-  height: 400px;
-  object-fit: cover;
-  display: block;
-  background-position: center;
-
-
+	width: 100%;
+	height: 400px;
+	object-fit: cover;
+	display: block;
+	background-position: center;
 }
 
 p {
-  font-family: "Josefin sans", sans-serif;
-  color: aliceblue;
+	font-family: "Josefin sans", sans-serif;
+	color: aliceblue;
 }
 
 h1,
 h2,
 h3,
 h4 {
-  font-family: "Josefin sans", sans-serif;
-  color: #F5FFFA;
+	font-family: "Josefin sans", sans-serif;
+	color: #F5FFFA;
 }
 
 #footer {
-  margin: 0;
-  height: auto;
-  width: auto;
-  padding: 0;
+	margin: 0;
+	height: auto;
+	width: auto;
+	padding: 0;
+}
 
-}
 #footer {
-  width: 100%;
-  margin: 0;
-  padding: 0;
-  background-size: cover;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	background-size: cover;
 }
+
 body {
-  margin: 0;
-  padding: 0;
+	margin: 0;
+	padding: 0;
 }
+
 
 /* Resposive */
+
 .bd-placeholder-img {
-  font-size: 2.125rem;
-  text-anchor: middle;
-  -webkit-user-select: none;
-  -moz-user-select: none;
-  user-select: none;
+	font-size: 2.125rem;
+	text-anchor: middle;
 }
+/* || MEDIA QUERIES */
 
-@media (min-width: 576px) {
-  .bd-placeholder-img-lg {
-      font-size: 5.5rem;
-  }
-   
-@media (max-width: 600px) {
-  #photos {
-    display: none;
-  }
-}
-@media (max-width: 600px) {
-  #gallery {
-    column-count: 2;
-  }
-}
+	@media (max-width: 600px) {
+		#photos {
+			display: none;
+		}
+	}
+	@media (min-width: 320px) and (max-width: 480px) {
+		#gallery1 {
+			display: block;
+		}
+	}
+	@media (min-width: 768px) and (max-width: 1024px) {
+		#theCarousel {
+			display: none;
+			
+		}
+		#lambrusco {
+			height: max-content;
+		}
+		#lambrusco {
+			
+		}
+	}
+	
 
-
-
-
-@keyframes hero-zoom {
-  from {
-    transform: scale(1);
-  }
-
-  to {
-    transform: scale(1.1);
-  }
+	@keyframes hero-zoom {
+		from {transform: scale(1);}
+		to {transform: scale(1.1);}
+		}
