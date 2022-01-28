@@ -184,5 +184,13 @@
     - From the source section drop-down menu, select the Main Branch.
     - Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon
       displayed to indicate the successful deployment.
+### Credits
+
+- Gallery inspired from [Freecodecamp](https://www.freecodecamp.org/news/how-to-create-an-image-gallery-with-css-grid-e0f0fd666a5c/)
+
+- Coursel exemple used [Bootstrap v5.0.0 ](https://getbootstrap.com/docs/5.0/examples/)
+
+ #### Media
+- Photos are taken from [Unsplash](https://unsplash.com/s/photos/restaurant?orientation=landscape)
 
  
