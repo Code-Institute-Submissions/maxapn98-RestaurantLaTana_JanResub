@@ -73,3 +73,14 @@
 
 - [Wireframe Dekstop](assets/wireframes/Dekstop-Restaurant-La-Tana.png)
 - [Wireframe Mobile](assets/wireframes/Mobile-Restaurant-La-Tana.png)
+
+### Features List
+
+- [x] Responsive navigation bar.
+- [x] Responsive footer.
+- [x] Two pages coursel slide with a button.
+- [x] Gallery with actual photos of courses.
+- [x] Photos from the gallery when hovering over with a description of the actual photo.
+- [x] "Menu" dropdown menu linked with PDF.
+- [x] About dropdown menu which leads to section.
+- [x] Footer with social media icons, google map location.
