@@ -154,4 +154,27 @@
 ![Wireframes](assets/validation-screenshots/colors-before.png)
 - I had a problem with the slide photo.
 ![Wireframes](assets/validation-screenshots/colors-after.png)
+
+### Technologies Used 
+
+- Html , CSS3
+
+- [Bootstrap v5.0.0-beta3](https://getbootstrap.com/)
+
+- [Adobe-xd](https://www.adobe.com/products/xd.html/)
+
+- [TinyPNG & TinyJPG](https://tinypng.com/)
+
+- [Online-convert](https://image.online-convert.com/convert-to-jpg)
+
+- [Gitpod](https://gitpod.io/workspaces)
+
+- [Font Awesome](https://fontawesome.com/)
+
+- [Google fonts](https://fonts.google.com/)
+
+- [Freeformatter HTML Formatter](https://www.freeformatter.com/html-formatter.html#ad-output)
+
+- [Freeformatter CSS Formatter](https://www.freeformatter.com/css-beautifier.html#ad-output)
+
  
