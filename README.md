@@ -66,3 +66,10 @@
         - Images of restaurant dishes.
     - Contact should contain:
         - Principal information about the restaurant such as Location, Phone number, Opening Hours, and location.
+
+### Skeleton Plane
+
+- I had originally thought about creating a website with a homepage and separate pages, later I decided to put it all on one page to create a better flow.
+
+- [Wireframe Dekstop](assets/wireframes/Dekstop-Restaurant-La-Tana.png)
+- [Wireframe Mobile](assets/wireframes/Mobile-Restaurant-La-Tana.png)
