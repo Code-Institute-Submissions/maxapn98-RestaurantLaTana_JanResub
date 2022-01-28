@@ -1,3 +1,6 @@
+![Responsive](assets/validation-screenshots/responsive.png) 
+
+- Image produced from [Am I Responsive](http://ami.responsivedesign.is/)
 # Restourant La Tana
 
 "La Tana" Restaurant webpage is made to inform a user about information such as opening hours, address, contact number, and location. It also provides information about products which clients can find here such as photos of courses, information about beef and wine.
@@ -14,7 +17,7 @@
 - Help a user to understand why is wagyu beef expensive.
 - Introduce users with Menu and Winelist.
 
-####User needs
+#### User needs
 - As a user, I want to find information about the restaurant,
  such as the restaurant menu, how to book a table, and location.
 - As a user, I want to find Contact information easily and quickly.
@@ -177,7 +180,7 @@
 
 - [Freeformatter CSS Formatter](https://www.freeformatter.com/css-beautifier.html#ad-output)
 
-## Deployment
+### Deployment
 
 - This site was deployed to GitHub pages. The steps to deploy are as follows:
     - In the GitHub repository, navigate to the Settings tab.
