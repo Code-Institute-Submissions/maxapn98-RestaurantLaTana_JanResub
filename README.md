@@ -21,3 +21,12 @@
 - As a user, I want Information about the specialties that this restaurant sells, and what is so special about it
 - As a user, I want to see photos of the restaurant interior, and courses.
 - As a user, I want to easily find Social media links.
+
+### Scope plane:
+#### The features that the website should include.
+- [x]Landing page, with the hero image.
+- [x]Navigation bar with links to Logo, Menu, About, Gallery, Contact.
+- [x]Easily findable information for booking a table, location, and opening hours.
+- [x]Content about meat.
+- [x]Content about wine.
+- [x]Footer with location, phone number, opening hours, and Social media links.
