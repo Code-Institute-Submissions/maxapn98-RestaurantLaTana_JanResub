@@ -104,4 +104,29 @@
 #### As a First time user, I want to how many does it have stars and to see if they are trusted by checking out restaurant on social media.
  - User can find how many stars the restaurant has underneath hero image.
  - User can click on the navigation bar on the Contact button which will lead to footer where he can find social media links.
+ ### Testing
+
+#### Testing Responsiveness:
+
+- Every page was opened and viewed using Google Chrome development tool.
+ - Each page was viewed on mobile, and desktop displays.
+
+ - [x] Test hero corsel on a landing page on the mobile table, and desktop.
+ - [x] Test viewing each section "Wagyu beef", "Lambrusco", "Wagyu stake" on mobile and desktop.
+ - [x] Test Gallery.
+ - [x] Test Footer
+
+
+### Testing Writeup
+- [x] Test if navigation bar on mobile view became a dropdown menu.
+- [x] Test social media links if they open on a new page when clicked.
+- [x] Test Navigation-link "Menu: if open PDF on a new page when clicked.
+- [x] Test navigation link "About" if it scrolls down to the wanted section.
+- [x] Test in "About" dropdown menu if opens the video on a new page.
+- [x] Test if by clicking on logo return to hero image.
+- [x] Test" learn more" button in hero image if scroll down to the wanted section.
+- [x] Test if hero cursel change image when clicked on the arrow button.
+- [x] Test if by hovering over an image in section underneath landing page zoom-in.
+- [x] Test if on mobile view section underneath the landing page does not display.
+- [x] Test if hovering over an image in the gallery displays a description of the image.
  
