@@ -84,3 +84,24 @@
 - [x] "Menu" dropdown menu linked with PDF.
 - [x] About dropdown menu which leads to section.
 - [x] Footer with social media icons, google map location.
+
+### Testing User Stories from User Experience
+#### As a first-time user, I want to understand the main purpose of the site and learn more about the restaurant.
+ - On the top of the website user can find an easily readable, and clean navigation bar.
+ - Hero Image has a "Learn More" Call to action button.
+ - User can click or scroll down both will lead to the same section.
+ - User can easily find information such as how to book and table and location.
+#### As a first-time user, I want to easily be able to navigate throughout the site to find restaurant information.
+ - User can easily scroll down and return whenever he wants to hero image by clicking on the logo sign.
+ - User can find all information about the site by scrolling down or clicking some of the links in the navigation bar which will lead
+ to the wanted section.
+ - User can find the restaurant menu, and winelist by clicking on the menu button which will open a PDF file.
+
+#### As a First time user I want to learn more about Restaurant and his specialties.
+ - User can find quick information when he opens a website,underneath the hero image are quick information about restaurant.
+ - User can click About button in the navigation bar which will lead to the wanted section, or just scroll down.
+ - User can look in the gallery and explore restaurant courses, when is hovered over the photo it will show description of the photo.
+#### As a First time user, I want to how many does it have stars and to see if they are trusted by checking out restaurant on social media.
+ - User can find how many stars the restaurant has underneath hero image.
+ - User can click on the navigation bar on the Contact button which will lead to footer where he can find social media links.
+ 
