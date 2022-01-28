@@ -129,4 +129,29 @@
 - [x] Test if by hovering over an image in section underneath landing page zoom-in.
 - [x] Test if on mobile view section underneath the landing page does not display.
 - [x] Test if hovering over an image in the gallery displays a description of the image.
+
+### Validation
+
+- I used the [Html Validator](https://validator.w3.org/) to check the Markup and [CSS Validator](https://jigsaw.w3.org/css-validator/) to check the CSS validity of the site
+![Wireframes](assets/validation-screenshots/errors-before.png) 
+  
+- Then i fixed errors.
+![Wireframes](assets/validation-screenshots/html-errors-after.png)
+
+- Css had no errors.
+![Wireframes](assets/validation-screenshots/css.png)
+
+- I constantly tested the code in Chrome Dev Tools and often ran Lighthouse.
+
+- Dekstop
+![Wireframes](assets/validation-screenshots/dekstop-before-lighthouse.png) 
+![Wireframes](assets/validation-screenshots/dekstop-after-lighthouse.png)
+
+- Mobile (I didn't know how to fix be faster,too many photos to load.)
+![Wireframes](assets/validation-screenshots/lighthouse-mobile.png)
+
+- The [Color Contrast Accessibility Validator](https://color.a11y.com/) was used to test for color.
+![Wireframes](assets/validation-screenshots/colors-before.png)
+- I had a problem with the slide photo.
+![Wireframes](assets/validation-screenshots/colors-after.png)
  
