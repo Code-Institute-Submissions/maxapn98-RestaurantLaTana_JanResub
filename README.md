@@ -187,6 +187,7 @@
     - From the source section drop-down menu, select the Main Branch.
     - Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon
       displayed to indicate the successful deployment.
+- Live link [RestourantLaTana](https://maxapn98.github.io/RestaurantLaTana/)
 ### Credits
 
 - Gallery inspired from [Freecodecamp](https://www.freecodecamp.org/news/how-to-create-an-image-gallery-with-css-grid-e0f0fd666a5c/)
